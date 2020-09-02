@@ -5,7 +5,7 @@
 - :man: I'm Former Software Engineer Intern at WSO2
 - 👯 I’ve blogged in [Medium](https://medium.com/@wathsara) and [Blogger](https://vteamneuron.blogspot.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wathsara-daluwatta/)
-- Joined Github **2** years ago.
+- Joined Github **3** years ago.
 
 ![Wathsara's github stats](https://github-readme-stats.vercel.app/api?username=Wathsara&include_all_commits=true&show_icons=true)
 
@@ -23,13 +23,4 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-Week: 25 August, 2020 - 01 September, 2020
-
-Python       59 mins         █████████████████▒░░░░░░░   69.58 % 
-JavaScript   9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-JSON         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Other        6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
 <!--END_SECTION:waka-->
