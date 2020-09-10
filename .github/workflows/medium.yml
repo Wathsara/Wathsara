@@ -15,5 +15,5 @@ jobs:
         with:
           MEDIUM_HANDLER: '@wathsara'
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: Wathsara/test-medium
+          REPOSITORY: Wathsara/Wathsara
           DAYS: 365
