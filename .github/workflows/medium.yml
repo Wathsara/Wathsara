@@ -1,11 +1,7 @@
 on:
   schedule:
-      # Runs at 12am UTC
-      - cron: '0 0 */2 * *' 
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+      # Runs at every 10 days
+      - cron: '0 0 */10 * *' 
 jobs:  
   update-readme:
     name: Update Medium Articles
