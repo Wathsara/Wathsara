@@ -32,3 +32,7 @@ JavaScript   6 mins          ████░░░░░░░░░░░░░
 Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
+
+:memo: **Medium Articles**
+<!--START_SECTION:medium-->
+<!--END_SECTION:medium-->
