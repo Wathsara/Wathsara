@@ -23,6 +23,13 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+Week: 09 September, 2020 - 16 September, 2020
+
+Docker     20 mins         ██████████▒░░░░░░░░░░░░░░   40.91 % 
+Python     17 mins         ████████▓░░░░░░░░░░░░░░░░   35.06 % 
+Markdown   11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
+```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
