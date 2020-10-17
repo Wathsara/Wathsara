@@ -23,26 +23,8 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-Week: 08 October, 2020 - 15 October, 2020
-
-Go           9 hrs 20 mins   ██████████████▒░░░░░░░░░░   57.88 % 
-JavaScript   4 hrs 47 mins   ███████▒░░░░░░░░░░░░░░░░░   29.69 % 
-YAML         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Python       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Docker       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
 <!--START_SECTION:medium-->
-
- > :memo: 1. [How I have added my Medium articles to GitHub profile page.](https://medium.com/@wathsara/how-i-have-added-my-medium-articles-to-github-profile-page-300f4733899e?source=rss-b211f0baedf8------2)            
-
- > :memo: 2. [Setting up Node OAuth applications with WSO2 Identity Server.](https://medium.com/@wathsara/setting-up-node-oauth-applications-with-wso2-identity-server-1d13cb1650f0?source=rss-b211f0baedf8------2)            
-
- > :memo: 3. [Authentications vs Authorization](https://medium.com/@wathsara/authentications-vs-authorization-f7560d24e0f6?source=rss-b211f0baedf8------2)            
-
- > :memo: 4. [Introduction to Adaptive Adaptive Authentication](https://medium.com/@wathsara/introduction-to-adaptive-adaptive-authentication-572874c8a6c3?source=rss-b211f0baedf8------2)            
-
 <!--END_SECTION:medium-->
