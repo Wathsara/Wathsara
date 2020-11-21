@@ -23,6 +23,13 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+Week: 13 November, 2020 - 20 November, 2020
+
+JavaScript   2 hrs 9 mins    ████████████░░░░░░░░░░░░░   47.86 % 
+Java         1 hr 51 mins    ██████████▒░░░░░░░░░░░░░░   41.20 % 
+Python       29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
