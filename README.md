@@ -23,20 +23,8 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-Week: 13 November, 2020 - 20 November, 2020
-
-JavaScript   2 hrs 9 mins    ████████████░░░░░░░░░░░░░   47.86 % 
-Java         1 hr 51 mins    ██████████▒░░░░░░░░░░░░░░   41.20 % 
-Python       29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
 <!--START_SECTION:medium-->
-
- > :memo: 1. [How I have added my Medium articles to GitHub profile page.](https://medium.com/@wathsara/how-i-have-added-my-medium-articles-to-github-profile-page-300f4733899e?source=rss-b211f0baedf8------2)            
-
- > :memo: 2. [Setting up Node OAuth applications with WSO2 Identity Server.](https://medium.com/@wathsara/setting-up-node-oauth-applications-with-wso2-identity-server-1d13cb1650f0?source=rss-b211f0baedf8------2)            
-
 <!--END_SECTION:medium-->
