@@ -23,19 +23,8 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-Week: 03 December, 2020 - 10 December, 2020
-
-JavaScript   11 hrs 22 mins  ████████████████████▒░░░░   80.76 % 
-Python       2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Go           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
 <!--START_SECTION:medium-->
-
- > :memo: 1. [How I have added my Medium articles to GitHub profile page.](https://medium.com/@wathsara/how-i-have-added-my-medium-articles-to-github-profile-page-300f4733899e?source=rss-b211f0baedf8------2)            
-
 <!--END_SECTION:medium-->
