@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m Wathsara. Thanks for visiting my Github.. :smiley: 
-- 🌱 I’m currently an Undergraduate at University of Colombo School Of Computing.
-- :memo: I'm Former Software Engineer Intern at WSO2
+- 🌱 I studied BSc (Hons) Software Engineering at University of Colombo School of Computing
+- :office: Software Engineer at WSO2
 - 👯 I’ve blogged in [Medium](https://medium.com/@wathsara) and [Blogger](https://vteamneuron.blogspot.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wathsara-daluwatta/)
 - Joined Github **{{ ACCOUNT_AGE }}** years ago.
