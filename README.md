@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m Wathsara. Thanks for visiting my Github.. :smiley: 
-- 🌱 I’m currently an Undergraduate at University of Colombo School Of Computing.
-- :memo: I'm Former Software Engineer Intern at WSO2
+- 🌱 I studied BSc (Hons) Software Engineering at University of Colombo School of Computing
+- :office: Software Engineer at WSO2
 - 👯 I’ve blogged in [Medium](https://medium.com/@wathsara) and [Blogger](https://vteamneuron.blogspot.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wathsara-daluwatta/)
 - Joined Github **3** years ago.
@@ -23,18 +23,8 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-Week: 13 May, 2021 - 20 May, 2021
-
-Java   4 hrs 53 mins   █████████████████████▓░░░   86.10 % 
-XML    33 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-YAML   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
 <!--START_SECTION:medium-->
-
- > :memo: 1. [How I have added my Medium articles to GitHub profile page.](https://medium.com/@wathsara/how-i-have-added-my-medium-articles-to-github-profile-page-300f4733899e?source=rss-b211f0baedf8------2)            
-
 <!--END_SECTION:medium-->
