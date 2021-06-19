@@ -23,6 +23,12 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+Week: 11 June, 2021 - 18 June, 2021
+
+HTML     55 mins         ████████████████████████░   95.51 % 
+CSS      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
