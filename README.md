@@ -5,7 +5,7 @@
 - :office: Software Engineer at WSO2
 - 👯 I’ve blogged in [Medium](https://medium.com/@wathsara) and [Blogger](https://vteamneuron.blogspot.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wathsara-daluwatta/)
-- Joined Github **3** years ago.
+- Joined Github **4** years ago.
 
 ![Wathsara's github stats](https://github-readme-stats.vercel.app/api?username=Wathsara&include_all_commits=true&show_icons=true)
 
@@ -23,14 +23,8 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
 <!--START_SECTION:medium-->
-
- > :memo: 1. [How I have added my Medium articles to GitHub profile page.](https://medium.com/@wathsara/how-i-have-added-my-medium-articles-to-github-profile-page-300f4733899e?source=rss-b211f0baedf8------2)            
-
 <!--END_SECTION:medium-->
