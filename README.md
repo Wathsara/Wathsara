@@ -23,16 +23,8 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-```text
-Week: 05 November, 2021 - 11 November, 2021
-
-
-```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
 <!--START_SECTION:medium-->
-
- > :memo: 1. [Configure Asgardeo as JupyterHub authenticator](https://wathsara.medium.com/configure-asgardeo-as-jupyterhub-authenticator-79dc71f794de?source=rss-b211f0baedf8------2)            
-
 <!--END_SECTION:medium-->
