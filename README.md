@@ -23,6 +23,11 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+Week: 07 November, 2021 - 13 November, 2021
+
+
+```
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
