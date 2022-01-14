@@ -27,7 +27,4 @@ Most used languages across my projects:
 
 :memo: **Medium Blogs**
 <!--START_SECTION:medium-->
-
- > :memo: 1. [Configure Asgardeo as JupyterHub authenticator](https://wathsara.medium.com/configure-asgardeo-as-jupyterhub-authenticator-79dc71f794de?source=rss-b211f0baedf8------2)            
-
 <!--END_SECTION:medium-->
