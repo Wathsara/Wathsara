@@ -30,4 +30,11 @@ No Activity tracked this Week
 
 :memo: **Medium Blogs**
 <!--START_SECTION:medium-->
+
+ > :memo: 1. [Hello Rancher Desktop!!](https://wathsara.medium.com/hello-rancher-desktop-35db030822bf?source=rss-b211f0baedf8------2)            
+
+ > :memo: 2. [Asgardeo authentication with Golang and Goth](https://wathsara.medium.com/asgardeo-authentication-with-golang-and-goth-2be8eea7dbe7?source=rss-b211f0baedf8------2)            
+
+ > :memo: 3. [Configure Asgardeo as JupyterHub authenticator](https://wathsara.medium.com/configure-asgardeo-as-jupyterhub-authenticator-79dc71f794de?source=rss-b211f0baedf8------2)            
+
 <!--END_SECTION:medium-->
