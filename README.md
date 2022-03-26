@@ -23,6 +23,13 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
+```text
+From: 18 March 2022 - To: 25 March 2022
+
+Java   34 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
