@@ -23,31 +23,8 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-
-```text
-From: 29 September 2022 - To: 06 October 2022
-
-PHP              19 mins         ███████████▒░░░░░░░░░░░░░   45.78 %
-Blade Template   11 mins         ███████░░░░░░░░░░░░░░░░░░   28.41 %
-CSS              10 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-```
-
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
 <!--START_SECTION:medium-->
-
- > :memo: 1. [User store based conditional authentication with Asgardeo](https://wathsara.medium.com/user-store-based-conditional-authentication-with-asgardeo-8639eb3e2b56?source=rss-b211f0baedf8------2)            
-
- > :memo: 2. [Let’s connect your on-premises user store to Asgardeo](https://wathsara.medium.com/lets-connect-your-on-premises-user-store-to-asgardeo-f36b65929f65?source=rss-b211f0baedf8------2)            
-
- > :memo: 3. [Secure a FastAPI Server with Asgardeo](https://wathsara.medium.com/secure-a-fastapi-server-with-asgardeo-ca0575e9de2e?source=rss-b211f0baedf8------2)            
-
- > :memo: 4. [Hello Rancher Desktop!!](https://wathsara.medium.com/hello-rancher-desktop-35db030822bf?source=rss-b211f0baedf8------2)            
-
- > :memo: 5. [Asgardeo authentication with Golang and Goth](https://wathsara.medium.com/asgardeo-authentication-with-golang-and-goth-2be8eea7dbe7?source=rss-b211f0baedf8------2)            
-
- > :memo: 6. [Configure Asgardeo as JupyterHub authenticator](https://wathsara.medium.com/configure-asgardeo-as-jupyterhub-authenticator-79dc71f794de?source=rss-b211f0baedf8------2)            
-
 <!--END_SECTION:medium-->
