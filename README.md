@@ -23,6 +23,13 @@ Most used languages across my projects:
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
+```text
+From: 01 October 2022 - To: 08 October 2022
+
+PHP   1 min           █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 :memo: **Medium Blogs**
