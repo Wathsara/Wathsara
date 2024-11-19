@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m Wathsara. Thanks for visiting my Github.. :smiley: 
+- 🔭 I’m Wathsara. Thanks for visiting my Github. :smiley: 
 - 🌱 I studied BSc (Hons) Software Engineering at University of Colombo School of Computing
-- :office: Software Engineer at WSO2
+- :office: PhD Candidate at RMIT University Melbourne Australia
 - 👯 I’ve blogged in [Medium](https://medium.com/@wathsara) and [Blogger](https://vteamneuron.blogspot.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wathsara-daluwatta/)
 - Joined Github **5** years ago.
